@@ -1,0 +1,13 @@
+{
+  "name": "soundspace",
+  "version": "0.0.1",
+  "description": "A Spatial Audio Engine for the web.",
+  "main": "dist/index.js",
+  "repository": "https://github.com/KePeterZ/soundspace.git",
+  "author": "kepeterz <otonnnya@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/express": "^4.17.9",
+    "express": "^4.17.1"
+  }
+}
